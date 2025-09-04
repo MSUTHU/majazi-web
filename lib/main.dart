@@ -37,9 +37,9 @@ class MyApp extends StatelessWidget {
           ),
         ),
       ),
-      home:  MainFragmentPage(intitializer: 0,),
+      home: MainFragmentPage(
+        intitializer: 0,
+      ),
     );
   }
 }
-
-
